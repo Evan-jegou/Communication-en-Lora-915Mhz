@@ -1,1 +1,0 @@
-Ce code permet la communication de la gateway. Celle ci va attendre la récéption d'un message avant d'envoyer un accusé de récéption. 
