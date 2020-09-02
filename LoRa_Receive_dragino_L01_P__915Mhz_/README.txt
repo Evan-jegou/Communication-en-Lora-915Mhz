@@ -1,0 +1,1 @@
+Ce code permet la récption de message simple par la gateway.
