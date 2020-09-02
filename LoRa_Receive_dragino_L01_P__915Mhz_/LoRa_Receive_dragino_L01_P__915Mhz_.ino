@@ -1,15 +1,3 @@
-/*
-  LoRa Receive Example :
-  Support Devices: LG01.
-
-  Require Library:
-  https://github.com/sandeepmistry/arduino-LoRa
-
-  Example sketch showing how to receive LoRa packets and print out in Console.
-
-  modified 14 Jul 2017
-  by Dragino Tech <support@dragino.com>
-*/
 #include <SPI.h>
 #include <LoRa.h>
 #include <Console.h>
